@@ -1,4 +1,4 @@
- <div align="center">
+ <div align="left">
  <h1>Project Discontinued (Temporarily) 🚨</h1>
  <h3>This project is currently discontinued as it has started incurring charges on due to google cloud api. I will try to make some changes to optimize it. Till then, it remains inactive.</h3>
  <br />
@@ -350,17 +350,4 @@ Distributed under the MIT License. See <code>LICENSE.md</code> for more informat
 </div>
 We’d love to hear from you! Whether you have a question, suggestion, or issue to report, feel free to get in touch with us.
 
-### Ways to Contact Us:
-
-1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
-
-2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
-
-3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
-4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
 ---
